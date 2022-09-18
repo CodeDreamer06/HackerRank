@@ -13,7 +13,7 @@ This repository was created to keep track of my CP goals of all my HackerRank ch
  - [x] Plus Minus
  - [x] Staircase
  - [x] Mini-Max Sum
- - [ ] Birthday Cake Candles
+ - [x] Birthday Cake Candles
  - [ ] Time Conversion
  - [ ] Grading Students
  - [ ] Apple and Orange

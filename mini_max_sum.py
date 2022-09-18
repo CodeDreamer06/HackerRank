@@ -5,11 +5,11 @@ print(f'{sum(sorted_array[:-1])} {sum(sorted_array[1:])}')
 
 # M2: Without sorted array
 result, minimum, maximum = 0, float('inf'), 0
-for i in range(len(array)):
-    result += array[i]
-    if array[i] < minimum:
-        minimum = array[i]
-    if array[i] > maximum:
-        maximum = array[i]
+for i in array:
+    result += i
+    if i < minimum:
+        minimum = i
+    if i > maximum:
+        maximum = i
 
 print(f'{result - maximum} {result - minimum}')
