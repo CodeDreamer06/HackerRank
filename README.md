@@ -8,7 +8,7 @@ This repository was created to keep track of my CP goals of all my HackerRank ch
  - [x] Solve Me First
  - [x] Simple Array Sum
  - [x] Compare the Triplets
- - [ ] A Very Big Sum
+ - [x] A Very Big Sum
 
 ## Contribution
 If you have any ideas, or you see a way in which any of the challenges could've been done more effeciently,   [open an issue](https://github.com/CodeDreamer06/HackerRank/issues/new)  and tell me what you think. If you'd like to contribute, please fork the repository and make changes as you'd like. Pull requests are warmly welcome.
