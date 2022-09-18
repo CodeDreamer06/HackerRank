@@ -7,7 +7,7 @@ This repository was created to keep track of my CP goals of all my HackerRank ch
 
  - [x] Solve Me First
  - [x] Simple Array Sum
- - [ ] Compare the Triplets
+ - [x] Compare the Triplets
  - [ ] A Very Big Sum
 
 ## Contribution
