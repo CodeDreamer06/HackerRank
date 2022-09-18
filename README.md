@@ -1,11 +1,12 @@
 # HackerRank   &nbsp;  ![GitHub issues](https://img.shields.io/github/issues/Codedreamer06/HackerRank)
 This repository was created to keep track of my CP goals of all my HackerRank challenges.
+
 **WARNING: The code in this repository isn't intended to be clean code or read by others.**
 
 ## Problem Solving: Algorithms
 
  - [x] Solve Me First
- - [ ] Simple Array Sum
+ - [x] Simple Array Sum
  - [ ] Compare the Triplets
  - [ ] A Very Big Sum
 
