@@ -17,7 +17,7 @@ This repository was created to keep track of my CP goals of all my HackerRank ch
 - [x] Birthday Cake Candles
 - [ ] Time Conversion
 - [x] Grading Students
-- [ ] Apple and Orange
+- [x] Apple and Orange
 - [ ] Number Line Jumps
 - [ ] Between Two Sets
 - [ ] Breaking the Records
