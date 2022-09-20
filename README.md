@@ -18,7 +18,7 @@ This repository was created to keep track of my CP goals of all my HackerRank ch
 - [ ] Time Conversion
 - [x] Grading Students
 - [x] Apple and Orange
-- [ ] Number Line Jumps
+- [x] Number Line Jumps
 - [ ] Between Two Sets
 - [ ] Breaking the Records
 - [ ] Subarray Division
