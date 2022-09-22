@@ -19,7 +19,7 @@ This repository was created to keep track of my CP goals of all my HackerRank ch
 - [x] Grading Students
 - [x] Apple and Orange
 - [x] Number Line Jumps
-- [ ] Between Two Sets
+- [x] Between Two Sets
 - [ ] Breaking the Records
 - [ ] Subarray Division
 - [ ] Division Sum Pairs
