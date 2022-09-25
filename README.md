@@ -21,7 +21,7 @@ This repository was created to keep track of my CP goals of all my HackerRank ch
 - [x] Number Line Jumps
 - [x] Between Two Sets
 - [x] Breaking the Records
-- [ ] Subarray Division
+- [x] Subarray Division
 - [ ] Division Sum Pairs
 - [ ] Migratory Birds
 - [ ] Day of the Programmer
