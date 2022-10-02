@@ -23,7 +23,7 @@ This repository was created to keep track of my CP goals of all my HackerRank ch
 - [x] Breaking the Records
 - [x] Subarray Division
 - [ ] Division Sum Pairs
-- [ ] Migratory Birds
+- [x] Migratory Birds
 - [ ] Day of the Programmer
 - [ ] Bill Division
 
