@@ -25,7 +25,8 @@ This repository was created to keep track of my CP goals of all my HackerRank ch
 - [ ] Division Sum Pairs
 - [x] Migratory Birds
 - [ ] Day of the Programmer
-- [ ] Bill Division
+- [x] Bill Division
+- [ ] Sales by Match
 
 ## Contribution
 
