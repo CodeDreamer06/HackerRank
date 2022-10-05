@@ -35,7 +35,7 @@ This repository was created to keep track of my CP goals of all my HackerRank ch
 - [ ] Electronics Shop
 - [x] Cats and a Mouse
 - [ ] Picking Numbers
-- [ ] The Hurdle Race
+- [x] The Hurdle Race
 - [ ] Designer PDF Viewer
 - [ ] Utopian Tree
 - [ ] Angry Professor
