@@ -31,7 +31,7 @@ This repository was created to keep track of my CP goals of all my HackerRank ch
 - [x] Bill Division
 - [x] Sales by Match
 - [x] Drawing Book
-- [ ] Counting Valleys
+- [x] Counting Valleys
 - [ ] Electronics Shop
 - [ ] Cats and a Mouse
 - [ ] Picking Numbers
