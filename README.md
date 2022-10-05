@@ -36,7 +36,7 @@ This repository was created to keep track of my CP goals of all my HackerRank ch
 - [x] Cats and a Mouse
 - [ ] Picking Numbers
 - [x] The Hurdle Race
-- [ ] Designer PDF Viewer
+- [x] Designer PDF Viewer
 - [ ] Utopian Tree
 - [ ] Angry Professor
 - [ ] Beautiful Days at the Movies
