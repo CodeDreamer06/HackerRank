@@ -33,7 +33,7 @@ This repository was created to keep track of my CP goals of all my HackerRank ch
 - [x] Drawing Book
 - [x] Counting Valleys
 - [ ] Electronics Shop
-- [ ] Cats and a Mouse
+- [x] Cats and a Mouse
 - [ ] Picking Numbers
 - [ ] The Hurdle Race
 - [ ] Designer PDF Viewer
