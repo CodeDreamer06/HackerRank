@@ -45,7 +45,7 @@ This repository was created to keep track of my CP goals of all my HackerRank ch
 - [ ] Jumping on the Clouds: Revisited
 - [ ] Find Digits
 - [ ] Append and Delete
-- [ ] Sherlock and Squares
+- [x] Sherlock and Squares
 - [ ] Library Fine
 - [ ] Cut the sticks
 - [ ] Repeated String
