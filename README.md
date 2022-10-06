@@ -43,7 +43,7 @@ This repository was created to keep track of my CP goals of all my HackerRank ch
 - [ ] Circular Array Rotation
 - [ ] Sequence Equation
 - [ ] Jumping on the Clouds: Revisited
-- [ ] Find Digits
+- [x] Find Digits
 - [ ] Append and Delete
 - [x] Sherlock and Squares
 - [ ] Library Fine
