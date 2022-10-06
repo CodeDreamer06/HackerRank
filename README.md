@@ -37,7 +37,7 @@ This repository was created to keep track of my CP goals of all my HackerRank ch
 - [ ] Picking Numbers
 - [x] The Hurdle Race
 - [x] Designer PDF Viewer
-- [ ] Utopian Tree
+- [x] Utopian Tree
 - [ ] Angry Professor
 - [ ] Beautiful Days at the Movies
 - [ ] Viral Advertising
