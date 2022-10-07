@@ -48,7 +48,7 @@ This repository was created to keep track of my CP goals of all my HackerRank ch
 - [x] Sherlock and Squares
 - [x] Library Fine
 - [x] Cut the sticks
-- [ ] Repeated String
+- [x] Repeated String
 - [ ] Jumping on the Clouds
 - [ ] Equalize the Array
 - [ ] ACM ICPC Team
