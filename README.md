@@ -46,7 +46,7 @@ This repository was created to keep track of my CP goals of all my HackerRank ch
 - [x] Find Digits
 - [ ] Append and Delete
 - [x] Sherlock and Squares
-- [ ] Library Fine
+- [x] Library Fine
 - [ ] Cut the sticks
 - [ ] Repeated String
 - [ ] Jumping on the Clouds
