@@ -130,7 +130,7 @@ This repository was created to keep track of my CP goals of all my HackerRank ch
 ## Medium
 - [ ] Forming a Magic Square
 - [ ] Climbing the Leaderboard
-- [ ] Extra Long Factorials
+- [x] Extra Long Factorials
 - [ ] Non-Divisible Subset
 - [ ] Queen's Attack II
 - [ ] Organizing Containers of Balls
