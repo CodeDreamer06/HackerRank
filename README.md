@@ -39,7 +39,7 @@ This repository was created to keep track of my CP goals of all my HackerRank ch
 - [x] Angry Professor
 - [x] Beautiful Days at the Movies
 - [ ] Viral Advertising
-- [ ] Save the Prisoner!
+- [x] Save the Prisoner!
 - [ ] Circular Array Rotation
 - [ ] Sequence Equation
 - [ ] Jumping on the Clouds: Revisited
