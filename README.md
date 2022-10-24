@@ -271,6 +271,105 @@ This repository was created to keep track of my CP goals of all my HackerRank ch
 </p>
 </details>
 
+<details>
+<summary>Python</summary>
+<p>
+
+## Easy
+- [x] Say "Hello, World!" With Python
+- [x] Python If-Else
+- [x] Arithmetic Operators
+- [x] Python: Division
+- [x] Loops
+- [x] Print Function
+- [x] List Comprehensions
+- [x] Find the Runner-Up Score!
+- [x] Nested Lists
+- [ ] Finding the percentage
+- [ ] Lists
+- [ ] Tuples
+- [ ] sWAP cASE
+- [ ] String Split and Join
+- [ ] What's Your Name?
+- [ ] Mutations
+- [ ] Find a string
+- [ ] String Validators
+- [ ] Text Alignment
+- [ ] Text Wrap
+- [ ] Designer Door Mat
+- [ ] String Formatting
+- [ ] Alphabet Rangoli
+- [ ] Capitalize!
+- [ ] itertools.product()
+- [ ] collections.Counter()
+- [ ] itertools.permutations()
+- [ ] Polar Coordinates
+- [ ] Introduction to Sets
+- [ ] DefaultDict Tutorial
+- [ ] Calendar Module
+- [ ] Exceptions
+- [ ] Collections.namedtuple()
+- [ ] Collections.OrderedDict()
+- [ ] Symmetric Difference
+- [ ] itertools.combinations()
+- [ ] Incorrect Regex
+- [ ] Set .add()
+- [ ] itertools.combinations_with_replacement()
+- [ ] Set .discard(), .remove() & .pop()
+- [ ] Collections.deque()
+- [ ] Set .union() Operation
+- [ ] Set .intersection() Operation
+- [ ] Mod Divmod
+- [ ] Power - Mod Power
+- [ ] Set .difference() Operation
+- [ ] Integers Come In All Sizes
+- [ ] Set .symmetric_difference() Operation
+- [ ] Set Mutations
+- [ ] The Captain's Room
+- [ ] Check Subset
+- [ ] Check Strict Superset
+- [ ] Class 2 - Find the Torsional Angle
+- [ ] Zipped!
+- [ ] Input()
+- [ ] Python Evaluation
+- [ ] Any or All
+- [ ] Detect Floating Point Number
+- [ ] Map and Lambda Function
+- [ ] Re.split()
+- [ ] Group(), Groups() & Groupdict()
+- [ ] Re.findall() & Re.finditer()
+- [ ] Re.start() & Re.end()
+- [ ] Validating Roman Numerals
+- [ ] Validating phone numbers
+- [ ] Validating and Parsing Email Addresses
+- [ ] Hex Color Code
+- [ ] HTML Parser - Part 1
+- [ ] HTML Parser - Part 2
+- [ ] Detect HTML Tags, Attributes and Attribute Values
+- [ ] XML 1 - Find the Score
+- [ ] Validating UID
+- [ ] XML2 - Find the Maximum Depth
+- [ ] Standardize Mobile Number Using Decorators
+- [ ] Decorators 2 - Name Directory
+- [ ] Arrays
+- [ ] Shape and Reshape
+- [ ] Transpose and Flatten
+- [ ] Concatenate
+- [ ] Zeros and Ones
+- [ ] Eye and Identity
+- [ ] Array Mathematics
+- [ ] Floor, Ceil and Rint
+- [ ] Sum and Prod
+- [ ] Min and Max
+- [ ] Mean, Var, and Std
+- [ ] Dot and Cross
+- [ ] Inner and Outer
+- [ ] Polynomials
+- [ ] Linear Algebra
+
+</p>
+</details>
+
 ## Contribution
 
 If you have any ideas, or you see a way in which any of the challenges could've been done more effeciently, [open an issue](https://github.com/CodeDreamer06/HackerRank/issues/new) and tell me what you think. If you'd like to contribute, please fork the repository and make changes as you'd like. Pull requests are warmly welcome.
